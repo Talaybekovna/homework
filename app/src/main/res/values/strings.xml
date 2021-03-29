@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Homework</string>
     <string name="greeting">Привет всем</string>
+    <string name="title">Programmer50000</string>
 </resources>
