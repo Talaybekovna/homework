@@ -1,5 +1,7 @@
 <resources>
     <string name="app_name">Homework</string>
+    <string name="accept">Ok</string>
     <string name="greeting">Привет всем</string>
     <string name="title">Programmer50000</string>
+    <string name="textClick">нажмите на картинку</string>
 </resources>

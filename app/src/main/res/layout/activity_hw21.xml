@@ -8,7 +8,7 @@
 
 
     <Button
-        android:id="@+id/button2"
+        android:id="@+id/button1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Button"
@@ -18,7 +18,7 @@
         app:layout_constraintVertical_bias="0.434" />
 
     <Button
-        android:id="@+id/button3"
+        android:id="@+id/button2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Button"
@@ -28,7 +28,7 @@
         app:layout_constraintVertical_bias="0.434" />
 
     <TextView
-        android:id="@+id/textView5"
+        android:id="@+id/textView1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Привет всем"
