@@ -4,4 +4,8 @@
     <string name="greeting">Привет всем</string>
     <string name="title">Programmer50000</string>
     <string name="textClick">нажмите на картинку</string>
+    <string name="btn_add">+</string>
+    <string name="btn_sub">-</string>
+    <string name="btn_mult">*</string>
+    <string name="btn_div">/</string>
 </resources>
