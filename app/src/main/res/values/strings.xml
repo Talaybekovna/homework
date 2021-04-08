@@ -8,4 +8,7 @@
     <string name="btn_sub">-</string>
     <string name="btn_mult">*</string>
     <string name="btn_div">/</string>
+    <string name="start">START</string>
+    <string name="stop">STOP</string>
+    <string name="reset">RESET</string>
 </resources>
