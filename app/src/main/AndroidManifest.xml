@@ -9,7 +9,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.Homework">
-        <activity android:name=".hw26"></activity>
+        <activity android:name=".hw27"></activity>
+        <activity android:name=".hw26" />
         <activity android:name=".hw25" />
         <activity android:name=".hw24" />
         <activity android:name=".hw22" />
