@@ -154,7 +154,6 @@ class hw28 : AppCompatActivity() {
     }
 
     fun digit_to_screen(digit: String) {
-        tvInput.append(tvResult.text)
         tvInput.append(digit)
         tvResult.text = ""
     }
